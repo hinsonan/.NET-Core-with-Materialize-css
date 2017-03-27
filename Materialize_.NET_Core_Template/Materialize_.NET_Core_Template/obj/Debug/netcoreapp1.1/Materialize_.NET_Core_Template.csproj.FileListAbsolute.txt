@@ -1,0 +1,9 @@
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\bin\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.deps.json
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\bin\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.runtimeconfig.json
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\bin\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.runtimeconfig.dev.json
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\bin\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.dll
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\bin\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.pdb
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\obj\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.csprojResolveAssemblyReference.cache
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\obj\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.AssemblyInfo.cs
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\obj\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.dll
+D:\Apps\Materialize_.NET_Core_Template\Materialize_.NET_Core_Template\obj\Debug\netcoreapp1.1\Materialize_.NET_Core_Template.pdb
